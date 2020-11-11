@@ -1,6 +1,7 @@
 # PONG-GAME
 
 DESCRIPTION:
+
 ->	Enter the name of two player as mentioned(First and Second)
 
 ->	Two keys for each player ( ‘s’ and ‘x’ for first player to move the bat up and down and ‘up’ and ‘down’ key for second player for the same).
