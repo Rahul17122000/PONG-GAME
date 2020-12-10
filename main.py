@@ -206,7 +206,3 @@ while True:
         ball.setx(-360)
         ball.dx*=-1
         winsound.PlaySound("bounce.wav",winsound.SND_ASYNC)
-
-
-#input("Press")#to keep the graphics window open or you can also write
-
